@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Audio Finger Printing" default="info">
+<target name="info">
+  <echo> HeyHowdy this is my first ant script</echo>
+  </target>  
+</project>
